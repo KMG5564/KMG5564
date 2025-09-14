@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is mingyu. Welcome to my github!
 
 <!--
 **KMG5564/KMG5564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
